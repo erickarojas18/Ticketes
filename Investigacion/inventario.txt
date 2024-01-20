@@ -1,0 +1,23 @@
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Teclado Descripcion: nuevo Precio: 20 Cantidad: 14
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Teclado Descripcion: nuevo Precio: 20 Cantidad: 14
+Nombre: Camara Descripcion: Teclado Precio: 25 Cantidad: 27
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Teclado Descripcion: nuevo Precio: 20 Cantidad: 14
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Computadora Codigo: nueva Precio: 100Cantidad: 10
+Nombre: Mouse Codigo: Computadora Precio: 10Cantidad: 15
+Nombre: Teclado Descripcion: nuevo Precio: 20 Cantidad: 14
+Nombre: Camara Descripcion: Teclado Precio: 25 Cantidad: 27
+Nombre: audio Descripcion: nuevo Precio: 12 Cantidad: 34
